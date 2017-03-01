@@ -72,5 +72,6 @@ A laundry list of useful command line tools and usage
 13. xargs - execute arguments
 
 14. find - find files
+    delete only files and not folders - find . -maxdepth 1 -type f -delet
 
 15. grep - find things inside files
